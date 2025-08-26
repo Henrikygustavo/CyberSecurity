@@ -37,7 +37,6 @@ RSA utiliza um par de chaves: pública (para cifrar) e privada (para decifrar).
 
 🛠 Tecnologias
 <ol>
-  <li>Python 3</li>
+  <li>**[Python 3](https://docs.python.org/3)**</li>
   <li>Biblioteca **[cryptography](https://cryptography.io/en/latest>)**</li>
-  <li>Terceiro</li>
 </ol>
