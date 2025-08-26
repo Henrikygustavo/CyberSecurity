@@ -21,11 +21,11 @@ pip install -r requirements.txt
 ### 3. Executar exemplos
 
 AES (simétrica)
-```php
+```python
 python symmetric.py
 ```
 RSA (assimétrica)
-```php
+```python
 python asymmetric.py
 ```
 
