@@ -21,9 +21,9 @@ pip install -r requirements.txt
 ### 3. Executar exemplos
 
 AES (simétrica)
-```python
+~~~python
 python symmetric.py
-```
+~~~
 RSA (assimétrica)
 ```python
 python asymmetric.py
