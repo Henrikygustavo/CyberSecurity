@@ -36,7 +36,8 @@ AES utiliza a mesma chave para criptografar e descriptografar.
 RSA utiliza um par de chaves: pública (para cifrar) e privada (para decifrar).
 
 🛠 Tecnologias
-
-Python 3
-br
-Biblioteca **[cryptography](https://cryptography.io/en/latest>)**
+<ol>
+  <li>Python 3</li>
+  <li>Biblioteca **[cryptography](https://cryptography.io/en/latest>)**</li>
+  <li>Terceiro</li>
+</ol>
