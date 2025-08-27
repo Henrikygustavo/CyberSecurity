@@ -9,8 +9,8 @@ Este projeto implementa dois algoritmos de criptografia:
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/Henrikygustavo/crypto-project.git
-cd crypto-project
+git clone https://github.com/Henrikygustavo/CyberSecurity.git
+cd CyberSecurity
 ```
 
 ### 2. Instalar dependências
