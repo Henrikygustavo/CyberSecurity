@@ -9,7 +9,7 @@ Este projeto implementa dois algoritmos de criptografia:
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/crypto-project.git
+git clone https://github.com/Henrikygustavo/crypto-project.git
 cd crypto-project
 ```
 
